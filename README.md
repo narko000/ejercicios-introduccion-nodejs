@@ -6,7 +6,6 @@ Ejercicios de la asignatura **Programación de Servicios y Procesos** (bloque 00
 
 - Marko González - Grupo: 2DM3
 
-
 ## Requisitos
 
 Tener instalado Node.js. Cada ejercicio es un proyecto independiente, así que hay que hacer `npm install` dentro de cada carpeta antes de ejecutarlo (instala picocolors, que es la librería que usamos para los colores).
@@ -29,7 +28,7 @@ npm install
 node sistema.js
 ```
 
-![Ejercicio 1](ejercicio1-captura.png)
+![Ejercicio 1](capturas/ejercicio1-captura.png)
 
 ---
 
@@ -47,7 +46,7 @@ node listar.js ./una-carpeta
 node listar.js
 ```
 
-![Ejercicio 2](ejercicio2-captura.png)
+![Ejercicio 2](capturas/ejercicio2-captura.png)
 
 ---
 
@@ -66,4 +65,4 @@ npm install
 node informe.js
 ```
 
-![Ejercicio 3](ejercicio3-captura.png)
+![Ejercicio 3](capturas/ejercicio3-captura.png)
