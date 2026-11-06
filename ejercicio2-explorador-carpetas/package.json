@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio2-explorador-carpetas",
+  "version": "1.0.0",
+  "description": "",
+  "main": "listar.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node listar.js"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
