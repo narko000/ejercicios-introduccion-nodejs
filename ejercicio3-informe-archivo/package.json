@@ -1,0 +1,13 @@
+{
+  "name": "ejercicio3-informe-archivo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "informe.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node informe.js"
+  },
+  "dependencies": {
+    "picocolors": "^1.1.1"
+  }
+}
